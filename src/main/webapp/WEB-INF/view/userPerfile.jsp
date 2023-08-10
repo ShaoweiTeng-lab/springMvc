@@ -11,6 +11,7 @@
     <title>Title</title>
     <h1>user : ${userName}</h1>
     <h1>password : ${password}</h1>
+    <h1>sessionId : ${sessionId}</h1>
 </head>
 <body>
 
